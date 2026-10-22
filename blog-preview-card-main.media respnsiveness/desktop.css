@@ -1,0 +1,24 @@
+@media screen and (min-width: 600px) {
+  .container {
+    min-width: 500px;
+    min-height: 530px;
+    padding: 24px;
+  }
+  .content {
+    width: 450px;
+  }
+  .fonts h1 {
+    font-weight: 900;
+    font-size: x-large;
+    margin-top: 15px;
+  }
+  .fonts span {
+    /* padding-right: 50px; */
+    font-size: 20px;
+    /* line-height: 50px; */
+    margin-top: 20px;
+  }
+  .font span {
+    font-weight: 800;
+  }
+}
