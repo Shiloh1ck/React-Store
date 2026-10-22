@@ -1,1 +1,1 @@
-# React-Store
+# front-end projects
